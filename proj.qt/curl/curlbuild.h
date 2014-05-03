@@ -3,6 +3,7 @@
 #pragma warning ( disable : 4049 )
 #pragma warning ( disable : 4217 )
 #pragma warning ( disable : 4273 )
+#pragma warning ( disable : 4996 )
 /***************************************************************************
  *                                  _   _ ____  _
  *  Project                     ___| | | |  _ \| |
