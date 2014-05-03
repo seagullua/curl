@@ -1,0 +1,5 @@
+include($$PWD/curl.pri)
+
+
+
+
